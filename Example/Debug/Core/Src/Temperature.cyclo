@@ -1,0 +1,3 @@
+Temperature.c:4:6:newTemp	1
+Temperature.c:15:5:tempCheck	2
+Temperature.c:29:5:getTemperature	1

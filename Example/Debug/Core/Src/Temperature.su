@@ -1,0 +1,3 @@
+../Core/Src/Temperature.c:4:6:newTemp	48	static
+../Core/Src/Temperature.c:15:5:tempCheck	32	static
+../Core/Src/Temperature.c:29:5:getTemperature	40	static
